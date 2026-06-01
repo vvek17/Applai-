@@ -1,0 +1,28 @@
+{
+  "name": "applai-",
+  "version": "1.0.0",
+  "description": "AI agent that scrapes LinkedIn, Indeed, Greenhouse, Lever and Workday — tailors your resume and cover letter per job using Claude, scores ATS fit, and applies automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvek17/Applai-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvek17/Applai-/issues"
+  },
+  "homepage": "https://github.com/vvek17/Applai-#readme",
+  "dependencies": {
+    "anthropic": "^0.0.0",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "playwright": "^1.60.0"
+  }
+}
